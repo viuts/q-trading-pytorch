@@ -8,8 +8,8 @@ Pytorch implmentation from q-trader(https://github.com/edwardhdlu/q-trader)
 
 Some examples of results on test sets:
 
-![HSI2018](images/%5EHSI_2018.png)
-Starting Capital: $100,000
+![HSI2018](images/%5EHSI_2018.png)  
+Starting Capital: $100,000.  
 HSI, 2017-2018. Profit of $10702.13.
 
 ## Running the Code
